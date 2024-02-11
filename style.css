@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#errors {
+  color: red;
+}
+
+#success {
+  color: green;
+}
+
+#BankStuff {
+  padding: 300px 0;
+  text-align: center;
+  background-image: url("/Users/patrick/Downloads");
+
+}
+
+#deleteBank {
+  color: red;
+}
+
+#SmartHu {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  background-clip: text;
+  /* Add this line for compatibility */
+  color: transparent;
+}
